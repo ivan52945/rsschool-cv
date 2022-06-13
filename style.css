@@ -27,6 +27,15 @@
     background-color: brown;
 }
 
+.container{
+    min-width: 1440px;
+    margin: 0 auto;
+}
+
+.nav{
+    
+}
+
 * {
     box-sizing: border-box;
 }
