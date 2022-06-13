@@ -3,3 +3,30 @@
     src: url("assets/fonts/Lato-Black.ttf");
 }
 
+.body{
+
+    margin: 0px;
+    padding: 0pc;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.header {
+    background-color: rgb(124, 175, 124);
+    height: 60px;
+}
+
+.main {
+    
+}
+
+.footer {
+    height: 60px;
+    background-color: brown;
+}
+
+* {
+    box-sizing: border-box;
+}
