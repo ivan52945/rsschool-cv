@@ -1,1 +1,5 @@
-styles
+@font-face {
+    font-family: Lato;
+    src: url("assets/fonts/Lato-Black.ttf");
+}
+
