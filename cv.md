@@ -1,5 +1,5 @@
 ## Ivan Bobrik
-![](KkVV7ZA.jpg)
+![](./assets/img/avatar.jpg)
 ### Contact information:
 * Phone: +375333437591
 * E-mail: ivan52945@gmail.com
@@ -19,4 +19,4 @@ int sum(int a, int b){
 ### Education
 * Belarusian State University of Informatics and Radioelectronics
 ### English
-    A2
+    B1
