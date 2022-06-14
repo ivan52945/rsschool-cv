@@ -19,4 +19,4 @@ int sum(int a, int b){
 ### Education
 * Belarusian State University of Informatics and Radioelectronics
 ### English
-    A2
+    B1
