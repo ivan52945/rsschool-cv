@@ -1,5 +1,5 @@
 # Ivan Bobrik
-
+![photo](avatar.jpg)
 ## Junion Frontend Developer
 
 ### Contack information
